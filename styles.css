@@ -95,6 +95,7 @@ body{
     border: 1px solid rgb(63, 43, 137);
     border-radius: 5px;
     padding: 15px;
+    max-height: 311px;
 }
 .img-box{
     width: 100%;
